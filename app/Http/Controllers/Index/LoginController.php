@@ -24,7 +24,7 @@ class LoginController extends Controller
      */
     public function create()
     {
-        //
+        echo 2222;
     }
 
     /**
